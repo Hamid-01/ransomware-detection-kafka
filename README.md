@@ -39,7 +39,6 @@ ransomware-detection-kafka/
 
 ```
 
----
 
 ## How to Run
 
@@ -104,19 +103,16 @@ pip install -r requirements.txt
 
 ```
 
----
 
 ## Disclaimer
 
 This is an academic project created for educational purposes and is not intended to be used as a production-level ransomware detection solution. It is recommended to use industry-grade security tools for real-world systems.
 
----
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
 ## Contact
 
