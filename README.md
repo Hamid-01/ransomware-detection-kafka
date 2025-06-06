@@ -2,7 +2,6 @@
 
 This project implements a real-time ransomware detection system using Apache Kafka on Kali Linux. It monitors a specified folder for file creation, modification, and deletion events. When suspicious activity is detected, such as rapid or unusual file behavior, it raises alerts to warn the user about a potential ransomware attack.
 
----
 
 ## Key Features
 
@@ -13,7 +12,6 @@ This project implements a real-time ransomware detection system using Apache Kaf
   - Log files
   - Optional alert sounds
 
----
 
 ## Tech Stack
 
@@ -23,7 +21,6 @@ This project implements a real-time ransomware detection system using Apache Kaf
 - Kafka Python Client
 - File System Monitoring Libraries
 
----
 
 ## Project Structure
 
@@ -128,14 +125,3 @@ Created by Hamid as part of a semester project in Cybersecurity & Digital Forens
 - GitHub: [github.com/Hamid-01](https://github.com/Hamid-01)
 - LinkedIn: [linkedin.com/in/hamid-ch](https://linkedin.com/in/hamid-ch)
 ```
-
----
-
-You can now:
-
-1. Open your repo on GitHub.
-2. Click on the `README.md` file.
-3. Click the edit icon (✏️).
-4. Paste the content above and save.
-
-Let me know if you want a custom banner or want help creating a portfolio-style GitHub profile as well.
