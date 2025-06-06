@@ -1,0 +1,405 @@
+2025-05-21 04:11:40,329 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:11:40,329 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,329 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,330 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 04:11:40,330 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,330 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,330 - No node available during check_version; sleeping 0.05 secs
+2025-05-21 04:11:40,386 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:11:40,386 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,386 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,387 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 04:11:40,387 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,387 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,387 - No node available during check_version; sleeping 0.11 secs
+2025-05-21 04:11:40,502 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:11:40,503 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,503 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,503 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 04:11:40,503 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,503 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,504 - No node available during check_version; sleeping 0.22 secs
+2025-05-21 04:11:40,721 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:11:40,721 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,721 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,722 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 04:11:40,722 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:40,722 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:40,722 - No node available during check_version; sleeping 0.41 secs
+2025-05-21 04:11:41,133 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:11:41,133 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:41,133 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:41,134 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 04:11:41,134 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:41,134 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:41,134 - No node available during check_version; sleeping 0.96 secs
+2025-05-21 04:11:42,091 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:11:42,092 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:42,092 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:42,092 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 04:11:42,092 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 04:11:42,092 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 04:11:42,092 - No node available during check_version; sleeping 0.23 secs
+2025-05-21 04:13:24,339 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:13:24,347 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-21 04:13:24,347 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 04:13:24,348 - group_id is None: disabling auto-commit.
+2025-05-21 04:13:24,348 - Updating subscribed topics to: ('file-events',)
+2025-05-21 04:13:24,360 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-21 04:13:24,361 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:13:24,361 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 04:13:24,361 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-21 04:13:24,379 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 10.
+2025-05-21 04:13:42,120 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/test1.pdf.locked.locked
+2025-05-21 04:13:42,268 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/test2.html.locked.locked
+2025-05-21 04:13:42,477 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/test3.css.locked.locked
+2025-05-21 04:13:42,683 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/test4.txt.locked.locked
+2025-05-21 04:13:42,683 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:13:42,884 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/test5.py.locked.locked
+2025-05-21 04:13:51,894 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/test3.css.locked.locked.locked
+2025-05-21 04:13:51,900 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/test3.css.locked.locked.locked
+2025-05-21 04:13:51,906 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/test2.html.locked.locked.locked
+2025-05-21 04:13:51,913 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/test2.html.locked.locked.locked
+2025-05-21 04:13:51,914 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:13:51,917 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/test5.py.locked.locked.locked
+2025-05-21 04:13:51,918 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/test5.py.locked.locked.locked
+2025-05-21 04:13:51,921 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/test1.pdf.locked.locked.locked
+2025-05-21 04:13:51,921 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/test1.pdf.locked.locked.locked
+2025-05-21 04:13:51,921 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:13:51,925 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/test4.txt.locked.locked.locked
+2025-05-21 04:13:51,925 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/test4.txt.locked.locked.locked
+2025-05-21 04:27:00,265 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:27:00,273 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-21 04:27:00,273 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 04:27:00,274 - group_id is None: disabling auto-commit.
+2025-05-21 04:27:00,274 - Updating subscribed topics to: ('file-events',)
+2025-05-21 04:27:00,284 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-21 04:27:00,285 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 04:27:00,286 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 04:27:00,286 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-21 04:27:00,300 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 25.
+2025-05-21 04:27:07,390 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt
+2025-05-21 04:27:07,542 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py
+2025-05-21 04:27:07,749 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html
+2025-05-21 04:27:07,956 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css
+2025-05-21 04:27:07,956 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:27:08,157 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js
+2025-05-21 04:27:08,363 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx
+2025-05-21 04:27:16,138 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc
+2025-05-21 04:27:16,148 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc
+2025-05-21 04:27:16,149 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc
+2025-05-21 04:27:16,158 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc
+2025-05-21 04:27:16,158 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:27:16,160 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc
+2025-05-21 04:27:16,160 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc
+2025-05-21 04:27:16,160 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc
+2025-05-21 04:27:16,161 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc
+2025-05-21 04:27:16,161 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:27:16,162 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 04:27:16,163 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 04:27:16,163 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc
+2025-05-21 04:27:16,179 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc
+2025-05-21 04:27:16,180 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 04:27:22,828 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 04:27:22,828 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 04:27:23,158 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 04:27:23,162 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 04:27:23,163 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 08:38:29,448 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:29,457 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-21 08:38:29,457 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 08:38:29,458 - group_id is None: disabling auto-commit.
+2025-05-21 08:38:29,458 - Updating subscribed topics to: ('file-events',)
+2025-05-21 08:38:29,875 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-21 08:38:29,876 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:29,877 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 08:38:29,877 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-21 08:38:29,892 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 0.
+2025-05-21 08:38:42,157 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt
+2025-05-21 08:38:42,295 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py
+2025-05-21 08:38:42,501 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html
+2025-05-21 08:38:42,706 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css
+2025-05-21 08:38:42,706 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 08:38:42,909 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js
+2025-05-21 08:38:43,616 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx
+2025-05-21 08:38:55,119 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: socket disconnected
+2025-05-21 08:38:55,119 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-21 08:38:55,120 - Fetch to node 0 failed: KafkaConnectionError: socket disconnected
+2025-05-21 08:38:55,120 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:55,121 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,121 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,121 - Node 0 connection failed -- refreshing metadata
+2025-05-21 08:38:55,168 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:55,168 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,168 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,169 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:55,169 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,169 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,170 - Node 0 connection failed -- refreshing metadata
+2025-05-21 08:38:55,282 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:55,283 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,283 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,284 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:55,284 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,285 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,285 - Node 0 connection failed -- refreshing metadata
+2025-05-21 08:38:55,495 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:55,496 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,496 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,496 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:55,497 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,497 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,497 - Node 0 connection failed -- refreshing metadata
+2025-05-21 08:38:55,843 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:55,843 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,843 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,844 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:55,844 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:55,844 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:55,844 - Node 0 connection failed -- refreshing metadata
+2025-05-21 08:38:56,793 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:56,793 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:56,793 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:56,794 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:56,794 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:56,795 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:56,795 - Node 0 connection failed -- refreshing metadata
+2025-05-21 08:38:58,473 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 08:38:58,473 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:58,474 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:58,474 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-21 08:38:58,475 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-21 08:38:58,475 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-21 08:38:58,475 - Node 0 connection failed -- refreshing metadata
+2025-05-21 09:24:41,941 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 09:24:41,951 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-21 09:24:41,951 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 09:24:41,952 - group_id is None: disabling auto-commit.
+2025-05-21 09:24:41,952 - Updating subscribed topics to: ('file-events',)
+2025-05-21 09:24:42,346 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-21 09:24:42,346 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 09:24:42,347 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 09:24:42,347 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-21 09:24:42,361 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 0.
+2025-05-21 09:24:54,890 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc
+2025-05-21 09:24:55,029 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc
+2025-05-21 09:24:55,236 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc
+2025-05-21 09:24:55,443 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc
+2025-05-21 09:24:55,443 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 09:24:55,645 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc
+2025-05-21 09:24:55,851 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc
+2025-05-21 09:26:31,527 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 09:26:31,535 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-21 09:26:31,536 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 09:26:31,536 - group_id is None: disabling auto-commit.
+2025-05-21 09:26:31,537 - Updating subscribed topics to: ('file-events',)
+2025-05-21 09:26:31,550 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-21 09:26:31,551 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-21 09:26:31,552 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-21 09:26:31,552 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-21 09:26:31,566 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 6.
+2025-05-21 09:26:45,447 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-21 09:26:45,448 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-21 09:26:45,448 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-21 09:26:45,455 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-21 09:26:45,456 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 09:26:45,464 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-21 09:26:45,464 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-21 09:26:45,465 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-21 09:26:45,465 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-21 09:26:45,465 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 09:26:45,502 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-21 09:26:45,502 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-21 09:26:45,502 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-21 09:26:45,502 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-21 09:26:45,503 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 09:26:45,516 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-21 09:26:45,517 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-21 09:26:45,517 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-21 09:26:45,517 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-21 09:26:45,518 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 09:26:45,529 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-21 09:26:45,529 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-21 09:26:45,530 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-21 09:26:45,530 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-21 09:26:45,530 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-21 09:26:45,544 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-21 09:26:45,547 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-21 09:26:45,548 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-21 09:26:45,549 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-21 09:26:45,549 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:15:10,132 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:15:10,142 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-23 06:15:10,142 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-23 06:15:10,143 - group_id is None: disabling auto-commit.
+2025-05-23 06:15:10,143 - Updating subscribed topics to: ('file-events',)
+2025-05-23 06:15:10,741 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-23 06:15:10,743 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:15:10,744 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-23 06:15:10,744 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-23 06:15:10,767 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 0.
+2025-05-23 06:15:18,267 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-23 06:15:18,267 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-23 06:15:18,275 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-23 06:15:18,275 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-23 06:15:18,275 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:15:18,278 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-23 06:15:18,279 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-23 06:15:18,279 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-23 06:15:18,279 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-23 06:15:18,279 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:15:18,284 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-23 06:15:18,285 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-23 06:15:18,285 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-23 06:15:18,285 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-23 06:15:18,286 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:15:43,725 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc
+2025-05-23 06:15:43,929 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc
+2025-05-23 06:15:44,135 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc
+2025-05-23 06:15:44,339 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc
+2025-05-23 06:15:44,339 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:15:44,547 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc
+2025-05-23 06:15:45,250 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc
+2025-05-23 06:15:49,872 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc
+2025-05-23 06:15:50,078 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc
+2025-05-23 06:15:50,281 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc
+2025-05-23 06:15:50,489 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc
+2025-05-23 06:15:50,489 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:15:50,695 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc
+2025-05-23 06:15:51,398 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc
+2025-05-23 06:16:08,963 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc
+2025-05-23 06:16:08,963 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc
+2025-05-23 06:16:08,963 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc
+2025-05-23 06:16:08,963 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc
+2025-05-23 06:16:08,964 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:08,973 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc
+2025-05-23 06:16:08,973 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc
+2025-05-23 06:16:09,002 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc
+2025-05-23 06:16:09,003 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc
+2025-05-23 06:16:09,007 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:09,032 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:09,037 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:09,048 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc
+2025-05-23 06:16:09,049 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc
+2025-05-23 06:16:09,049 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:09,053 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc
+2025-05-23 06:16:09,053 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc
+2025-05-23 06:16:09,054 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc
+2025-05-23 06:16:09,066 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc
+2025-05-23 06:16:09,073 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:09,091 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc
+2025-05-23 06:16:09,093 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc
+2025-05-23 06:16:09,093 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc
+2025-05-23 06:16:09,095 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc
+2025-05-23 06:16:09,102 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:09,117 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:09,117 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:09,127 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc
+2025-05-23 06:16:09,131 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc
+2025-05-23 06:16:09,137 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:13,625 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:13,626 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:13,674 - opened on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:13,685 - closed_no_write on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 06:16:13,689 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 06:16:46,094 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: socket disconnected
+2025-05-23 06:16:46,094 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: socket disconnected
+2025-05-23 06:16:46,095 - Fetch to node 0 failed: KafkaConnectionError: socket disconnected
+2025-05-23 06:16:46,095 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:46,096 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,096 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,096 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:46,145 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:46,145 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,146 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,146 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:46,147 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,147 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,147 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:46,254 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:46,254 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,254 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,255 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:46,255 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,255 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,255 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:46,455 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:46,456 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,456 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,456 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:46,457 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,457 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,457 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:46,806 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:46,807 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,807 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,808 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:46,808 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:46,808 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:46,808 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:47,699 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:47,700 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:47,700 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:47,700 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:47,700 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:47,700 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:47,701 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:49,106 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:49,107 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:49,107 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:49,107 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:49,108 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:49,108 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:49,108 - Node 0 connection failed -- refreshing metadata
+2025-05-23 06:16:52,143 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 06:16:52,144 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:52,144 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:52,145 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: connecting to localhost:9092 [('127.0.0.1', 9092) IPv4]
+2025-05-23 06:16:52,145 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Connect attempt returned error 111. Disconnecting.
+2025-05-23 06:16:52,145 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv4 ('127.0.0.1', 9092)]>: Closing connection. KafkaConnectionError: 111 ECONNREFUSED
+2025-05-23 06:16:52,146 - Node 0 connection failed -- refreshing metadata
+2025-05-23 19:13:47,435 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 19:13:47,448 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <checking_api_versions_recv> [IPv6 ('::1', 9092, 0, 0)]>: Broker version identified as 2.6
+2025-05-23 19:13:47,448 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-23 19:13:47,449 - group_id is None: disabling auto-commit.
+2025-05-23 19:13:47,450 - Updating subscribed topics to: ('file-events',)
+2025-05-23 19:13:48,181 - Updated partition assignment: [TopicPartition(topic='file-events', partition=0)]
+2025-05-23 19:13:48,183 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connecting> [IPv6 ('::1', 9092, 0, 0)]>: connecting to localhost:9092 [('::1', 9092, 0, 0) IPv6]
+2025-05-23 19:13:48,183 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Connection complete.
+2025-05-23 19:13:48,184 - <BrokerConnection client_id=kafka-python-2.2.4, node_id=bootstrap-0 host=localhost:9092 <connected> [IPv6 ('::1', 9092, 0, 0)]>: Closing connection. 
+2025-05-23 19:13:48,222 - Resetting offset for partition TopicPartition(topic='file-events', partition=0) to offset 0.
+2025-05-23 19:13:55,506 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc
+2025-05-23 19:13:55,647 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc
+2025-05-23 19:13:55,852 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc
+2025-05-23 19:13:56,056 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc
+2025-05-23 19:13:56,056 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 19:13:56,263 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc
+2025-05-23 19:13:56,470 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc
+2025-05-23 19:14:08,674 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc.enc
+2025-05-23 19:14:08,877 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc.enc
+2025-05-23 19:14:09,081 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc.enc
+2025-05-23 19:14:09,285 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc.enc
+2025-05-23 19:14:09,285 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 19:14:09,492 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc.enc
+2025-05-23 19:14:09,693 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc.enc
+2025-05-23 19:14:29,098 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:29,300 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:29,519 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:29,710 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:29,711 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 19:14:29,917 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:30,123 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:47,615 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:47,821 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:48,026 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:48,231 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:48,231 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 19:14:48,436 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:14:48,642 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:15:14,054 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/1.txt.enc.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:15:14,259 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/2.py.enc.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:15:14,467 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/3.html.enc.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:15:14,670 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/4.css.enc.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:15:14,670 - [!!!] ALERT: Ransomware behavior detected!
+2025-05-23 19:15:14,891 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/5.js.enc.enc.enc.enc.enc.enc.enc.enc
+2025-05-23 19:15:15,084 - moved on /home/blackshadow/Music/BIG DATA/watched_folder/6.pptx.enc.enc.enc.enc.enc.enc.enc.enc
