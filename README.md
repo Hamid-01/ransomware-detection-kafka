@@ -119,5 +119,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Created by Hamid as part of a semester project in Cybersecurity & Digital Forensics.
 
 - GitHub: [github.com/Hamid-01](https://github.com/Hamid-01)
-- LinkedIn: [linkedin.com/in/hamid-ch](https://www.linkedin.com/in/hamidiqbal-cyber/)
+- LinkedIn: [linkedin.com/in/hamidiqbal-cyber](https://www.linkedin.com/in/hamidiqbal-cyber/)
 ```
